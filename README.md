@@ -1,16 +1,20 @@
-### Hi there 👋
+# Daniel Park 😉
 
-<!--
-**seokeunpark/seokeunpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Who Am I
+- 🌱 I’m currently learning Node, HTML, CSS, JAVA
+- 🥇 I majored in Classical Voice, the Department of Business Administration (summa cumme laude)
+- 🚅 My hometown is Chunho, Seoul in Korea
 
-Here are some ideas to get you started:
+### Experience
+- 🎓 Chung-ang University, Classical Voice the Department of Business Administration (2007.03~2013.02 )
+- 🎵 Chuncheon City Choir, regular Bass Part member (2013.03~2015.09)
+- ✈️ Jeju Air, Boeing 737 Commercial Pilot (2017.01~2018.03)
+- 👨‍✈ Panda-Express, Citation G650 Private Jet Pilot (2018.09~2020.02)
+- 🇧🇳
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Like
+- 🏀 Basketball
+- 🏊 Swim
+- 🍕 Pizza
+- 🍔 Hamburger
+- 🎥 Movie
