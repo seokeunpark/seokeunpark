@@ -47,4 +47,4 @@
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seokeunPark">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEOKEUNPARK&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seokeunPark" height="165")
