@@ -10,8 +10,7 @@
 - 🎵 Chuncheon City Choir, regular Bass Part member (2013.03~2015.09)
 - ✈️ Jeju Air, Boeing 737 Commercial Pilot (2017.01~2018.03)
 - 👨‍✈ Panda-Express, Citation G650 Private Jet Pilot (2018.09~2020.02)
-- :kr:
-
+🇦🇿
 
 ### What I Like
 - 🏀 Basketball
@@ -19,3 +18,4 @@
 - 🍕 Pizza
 - 🍔 Hamburger
 - 🎥 Movie
+- 
