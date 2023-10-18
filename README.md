@@ -12,16 +12,17 @@
 ### Experience
 - 🎓 Chung-ang University, Classical Voice the Department of Business Administration (2007.03~2013.02 )
 - 🎵 Chuncheon City Choir, regular Bass Part member (2013.03~2015.09)
-- ✈️ Jeju Air, Boeing 737 Commercial Pilot (2017.01~2018.03)
-- 👨‍✈ Panda-Express, Citation G650 Private Jet Pilot (2018.09~2020.02)
+- ✈️ Jeju Air, Boeing 737, Commercial Pilot (2017.01~2018.03)
+- 👨‍✈ Panda-Express, Citation G650, Private Jet Pilot (2018.09~2020.02)
 
 ### What I Like
 - 🏀 Basketball
 - 🍔 Hamburger
 - 🎥 Movie
+- 🎤 Singing
 - 🌏 Travel
 
-## 🔨 Skill 🔨
+🔨 Skill 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
     <p><strong>Backend</strong></p>
@@ -49,4 +50,4 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=seokeunPark" height="165">
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=seokeunPark&langs_count=6&hide=jupyter%20notebook,roff">
+<img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=seokeunPark&langs_count=6&hide=jupyter%20notebook,roff">
