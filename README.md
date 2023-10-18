@@ -50,4 +50,4 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=seokeunPark" height="165">
 
-<img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=seokeunPark&langs_count=6&hide=jupyter%20notebook,roff">
+<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=seokeunPark&langs_count=6&hide=jupyter%20notebook,roff">
