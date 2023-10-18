@@ -1,4 +1,4 @@
-# SEOKEUN PARK 😉
+# SEOKEUN PARK 🛫
 
 ### Who Am I
 - 🌱 I’m currently learning Node, HTML, CSS, JAVA ...
