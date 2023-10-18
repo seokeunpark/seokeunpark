@@ -1,4 +1,4 @@
-# Daniel Park 😉
+# SEOKEUN PARK 😉
 
 ### Who Am I
 - 🌱 I’m currently learning Node, HTML, CSS, JAVA ...
@@ -22,3 +22,5 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:pse620@gmail.com)
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seokeunPark">
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=seokeunPark" height="165">
