@@ -1,3 +1,11 @@
+![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20SEOKEUN%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
+
+<div align="right">
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaesoo9410&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/seokeunpark)</div>
+
+<div align="right">
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:pse620@gmail.com)</div>
+
 # SEOKEUN PARK 🛫
 
 ### Who Am I
@@ -16,8 +24,6 @@
 - 🍔 Hamburger
 - 🎥 Movie
 - 🌏 Travel
-
-![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20SEOKEUN%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
 ## 🔨 Skill 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
@@ -41,9 +47,7 @@
 </div><br>
 </div>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaesoo9410&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/seokeunpark)
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:pse620@gmail.com)
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seokeunPark">
 
