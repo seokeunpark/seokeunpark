@@ -5,7 +5,7 @@
 # SEOKEUN PARK 🛫
 
 ### Who Am I
-- 🌱 I’m currently learning Node, HTML, CSS, JAVA ...
+- 🌱 I’m currently learning HTML, CSS, JS, JAVA, MariaDB, MyBatis, ...
 - 🏅 Double major in Classical Voice(summa cumme laude) and the Department of Business Administration
 - 🚅 My hometown is Chunho, Seoul in Korea
 
