@@ -51,8 +51,6 @@
         </div><br>
 </div>
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seokeunPark">
-
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=seokeunPark" height="165">
-
-<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=seokeunPark&langs_count=6&hide=jupyter%20notebook,roff">
+<img src="https://raw.githubusercontent.com/dkssud8150/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
+<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seokeunPark">
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=seokeunPark" height="165">
