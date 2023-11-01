@@ -51,6 +51,19 @@
         </div><br>
 </div>
 
+### 🎥 ProJect
+<!-- | 23.10 | Dear-My-wwnoov | 개인 프로젝트 | -->
+
+  
+| Date | Contents | With |
+|:---:|:---:|:---:|
+| 23.12 | ################# | ############# |
+| 23.11 | ################## |################# |
+| 23.10.1~23.11.10 |[온라인 E-BOOKSTORE 제작] | 4조 팀프로젝트 |
+| 23.10.1~23.10.31 | [MyBatis CRUD프로젝트] | 개인프로젝트 |
+| 23.10.1~23.10.31 | [CSS / HTML / JavaScript 를 활용한 웹퍼블리싱] | 개인프로젝트 |
+
+
 <img src="https://raw.githubusercontent.com/dkssud8150/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seokeunPark">
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=seokeunPark" height="165">
