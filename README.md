@@ -51,7 +51,7 @@
         </div><br>
 </div>
 
-### 🎥 ProJect
+### 🧮 ProJect
 <!-- | 23.10 | Dear-My-wwnoov | 개인 프로젝트 | -->
 
   
