@@ -22,7 +22,7 @@
 - 🎤 Singing
 - 🌏 World Travel
 
-🔨 Tech Stack 🔨
+### 🔨 Tech Stack 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
         <!-- Frontend -->
     <p><strong>Frontend</strong></p>
