@@ -41,14 +41,14 @@
      </div>
 
 ### 🧮 ProJect 🧮
-<!-- | 23.10 | seokeunpark | ProJect | -->
+<!-- | 23.10 | seokeunpark | Project | -->
 
   
 | Title | No. |
 |:---:|:---:|
-|[게시판 CRUD기능 구현 및 MyBatis 연동](https://github.com/seokeunpark/Personal_Project3-ThisIsJava-.git) | Personal ProJect 3. |
-|[모두의 SQL 실습 클론코딩](https://github.com/seokeunpark/Personal_Project2-EveryOneSQL-.git) | Personal ProJect 2. |
-|[HTML/CSS/JavaScript를 활용한 반응형 웹 페이지 만들기](https://github.com/seokeunpark/Personal_Project1-Responsive-Web-.git) | Personal ProJect 1. |
+|[게시판 CRUD기능 구현 및 MyBatis 연동](https://github.com/seokeunpark/Personal_Project3-ThisIsJava-.git) | Personal Project 3. |
+|[모두의 SQL 실습 클론코딩](https://github.com/seokeunpark/Personal_Project2-EveryOneSQL-.git) | Personal Project 2. |
+|[HTML/CSS/JavaScript를 활용한 반응형 웹 페이지 만들기](https://github.com/seokeunpark/Personal_Project1-Responsive-Web-.git) | Personal Project 1. |
 
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seokeunPark">
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=seokeunPark" height="165">
