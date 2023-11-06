@@ -43,7 +43,7 @@
 <!-- | 23.10 | seokeunpark | ProJect | -->
 
   
-| Contents | With |
+| Title | No. |
 |:---:|:---:|
 |[게시판 CRUD기능 구현 및 MyBatis 연동](https://github.com/seokeunpark/Personal_Project3-ThisIsJava-.git) | Personal ProJect 3. |
 |[모두의 SQL 실습 클론코딩](https://github.com/seokeunpark/Personal_Project2-EveryOneSQL-.git) | Personal ProJect 2. |
