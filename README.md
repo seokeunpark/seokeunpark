@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text="Welcome%20to%20SEOK%20EUN`s%20Work_Space"%20%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=👋Welcome%20to%20SEOK%20EUN`s%20"Work_Space"👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
  <img src= "https://github.com/seokeunpark/seokeunpark/assets/145525099/cf3c2633-8e63-4f85-a371-258b05b1e6d3" width="850" height="300"/>
 
