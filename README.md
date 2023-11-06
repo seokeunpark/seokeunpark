@@ -57,7 +57,7 @@
   
 | Contents | With |
 |:---:|:---:|
-|[게시판 CRUD기능 구현 및 MyBatis 연동] | Team ProJect 3. |
+|[게시판 CRUD기능 구현 및 MyBatis 연동] | Personal ProJect 3. |
 |[모두의 SQL 실습 클론코딩] | Personal ProJect 2. |
 |[HTML/CSS/JavaScript를 활용한 반응형 웹 페이지 만들기] | Personal ProJect 1. |
 
