@@ -24,32 +24,20 @@
 
 ### 🔨 Tech Stack 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
-        <!-- Frontend -->
-    <p><strong>Frontend</strong></p>
     <div>
+        <img src="https://img.shields.io/badge/JAVA-C01818?style=flat-square&logo=coffeescript&logoColor=white"/>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
         <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
-</div>
-    <!-- Backend -->
-    <p><strong>Backend</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
-    </div>
-    <!-- Database -->
-    <p><strong>Database</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
-        <img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-    </div>
-    <!-- Tool -->
-    <p><strong>tool</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white">
-        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-        </div><br>
-</div>
+        <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+        <br>
+        <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
+        <img src="https://img.shields.io/badge/VSCode-2F80ED?style=flat-square&logo=&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-the-badge&logo=mariaDB&logoColor=white">
+        <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-the-badge&logo=mysql&logoColor=white">
+        <br>
+        <img src="https://img.shields.io/badge/Github-181717?style=flat-the-badge&logo=github&logoColor=white">
+        <img src="https://img.shields.io/badge/Notion-000000?style=flat-the-badge&logo=Notion&logoColor=white">
+     </div>
 
 ### 🧮 ProJect 🧮
 <!-- | 23.10 | seokeunpark | ProJect | -->
