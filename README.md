@@ -4,7 +4,7 @@
 
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%233D8FC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/seokeunpark)
 
-# SEOKEUN PARK 🛫
+# 🛫 SEOKEUN PARK 🛬
 
 ### Who Am I
 - 🌱 I’m currently learning HTML, CSS, JS, JAVA, MariaDB, MyBatis, ...
@@ -21,6 +21,7 @@
 ### What I Like
 - 🏀 Basketball
 - 🍔 Hamburger
+- ☕ Coffee
 - 🎥 Movie
 - 🎤 Singing
 - 🌏 World Travel
