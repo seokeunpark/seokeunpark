@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text="Welcome%20to%20SEOK%20EUN`s%20Work_Space"%20%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
- <img src= "https://github.com/seokeunpark/seokeunpark/assets/145525099/cf3c2633-8e63-4f85-a371-258b05b1e6d3" width="850" height="350"/>
+ <img src= "https://github.com/seokeunpark/seokeunpark/assets/145525099/cf3c2633-8e63-4f85-a371-258b05b1e6d3" width="850" height="400"/>
 
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%233D8FC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/seokeunpark)
 
