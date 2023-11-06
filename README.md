@@ -2,9 +2,9 @@
 
  <img src= "https://github.com/seokeunpark/seokeunpark/assets/145525099/cf3c2633-8e63-4f85-a371-258b05b1e6d3" width="850" height="400"/>
 
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%233D8FC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/seokeunpark)
-
 # 🛫 SEOKEUN PARK 🛬
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%233D8FC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/seokeunpark)
 
 ### Who Am I
 - 🌱 I’m currently learning HTML, CSS, JS, JAVA, MariaDB, MyBatis, ...
