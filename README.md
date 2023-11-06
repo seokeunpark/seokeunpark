@@ -55,13 +55,11 @@
 <!-- | 23.10 | seokeunpark | ProJect | -->
 
   
-| Date | Contents | With |
-|:---:|:---:|:---:|
-| 23.12 | ################# | ############# |
-| 23.11 | ################## |################# |
-| 23.10.1~23.11.10 |[온라인 E-BOOKSTORE 제작] | Team ProJect. |
-| 23.10.1~23.10.31 | [MyBatis CRUD프로젝트] | Personal ProJect. |
-| 23.10.10~23.10.25 | [CSS / HTML / JavaScript 를 활용한 웹퍼블리싱] | Personal ProJect. |
+| Contents | With |
+|:---:|:---:|
+|[게시판 CRUD기능 구현 및 MyBatis 연동] | Team ProJect 3. |
+|[모두의 SQL 실습 클론코딩] | Personal ProJect 2. |
+|[HTML/CSS/JavaScript를 활용한 반응형 웹 페이지 만들기] | Personal ProJect 1. |
 
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seokeunPark">
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=seokeunPark" height="165">
