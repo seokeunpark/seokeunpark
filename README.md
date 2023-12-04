@@ -54,6 +54,7 @@
   
 | Title | No. |
 |:---:|:---:|
+|[JSP 및 MyBatis를 통한 공부체크 웹 페이지 만들기](https://github.com/seokeunpark/Team_ProJect.git) | Team Project 2. |
 |[DB 연동 및 Java를 통한 BookStore 관리 프로그램](https://github.com/seokeunpark/Team_ProJect.git) | Team Project 1. |
 |[게시판 CRUD기능 구현 및 MyBatis 연동](https://github.com/seokeunpark/Personal_Project3-ThisIsJava-.git) | Personal Project 3. |
 |[모두의 SQL 실습 클론코딩](https://github.com/seokeunpark/Personal_Project2-EveryOneSQL-.git) | Personal Project 2. |
